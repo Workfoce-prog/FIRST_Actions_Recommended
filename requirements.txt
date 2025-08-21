@@ -1,0 +1,10 @@
+
+streamlit>=1.35
+pandas>=2.0
+numpy>=1.23
+matplotlib>=3.7
+openpyxl>=3.1
+
+APScheduler>=3.10
+
+boto3>=1.28
